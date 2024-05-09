@@ -1,0 +1,1 @@
+Projeto de uma Inteligencia Artificial feita em python para definir o score de crédito de um cliente
